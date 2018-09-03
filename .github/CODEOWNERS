@@ -1,0 +1,11 @@
+# General repo responsibility
+*       @dr-whobot, @davesade
+
+# Responsible for all JS related stuff
+*.js    @javascript_responsible
+
+# Responsible for all Terraform stuff
+/terraform/    @infrastructure_responsible
+
+# Responsible for documentation
+/docs/ @dr-whobot
