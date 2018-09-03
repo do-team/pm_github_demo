@@ -1,0 +1,7 @@
+This is documentation of our project, yay!
+
+Chapter 1 How not to lose
+
+Chapter 2 How to win
+
+Chapter 3 How to install this piece of wonderful software
